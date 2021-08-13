@@ -7,5 +7,5 @@
 ```js
 import { kana2kanji } from "https://code4fukui.github.io/kana2kanji/kana2kanji.js";
 
-console.log(await kana2kanji("さばえ");
+console.log(await kana2kanji("さばえ"));
 ```
