@@ -1,0 +1,2 @@
+# kana2kanji
+ 
