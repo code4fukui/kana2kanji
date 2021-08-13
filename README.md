@@ -9,3 +9,8 @@ import { kana2kanji } from "https://code4fukui.github.io/kana2kanji/kana2kanji.j
 
 console.log(await kana2kanji("さばえ"));
 ```
+
+## relative
+
+- [kanji2kana](https://github.com/code4fukui/kanji2kana/)
+
