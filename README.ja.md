@@ -1,8 +1,8 @@
 # kana2kanji
 
-A program that converts hiragana to kanji using the [Google Japanese Input - CGI API Developer's Guide](https://www.google.co.jp/ime/cgiapi.html).
+[Google 日本語入力 - CGI API](https://www.google.co.jp/ime/cgiapi.html)を使ったかな漢字変換プログラムです。
 
-## Usage
+## 使い方
 
 ```js
 import { kana2kanji } from "https://code4fukui.github.io/kana2kanji/kana2kanji.js";
@@ -10,10 +10,10 @@ import { kana2kanji } from "https://code4fukui.github.io/kana2kanji/kana2kanji.j
 console.log(await kana2kanji("さばえ"));
 ```
 
-## Related
+## 関連
 
 - [kanji2kana](https://github.com/code4fukui/kanji2kana/)
 
-## License
+## ライセンス
 
 MIT License
