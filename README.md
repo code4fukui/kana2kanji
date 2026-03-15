@@ -1,5 +1,7 @@
 # kana2kanji
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 A program that converts hiragana to kanji using the [Google Japanese Input - CGI API Developer's Guide](https://www.google.co.jp/ime/cgiapi.html).
 
 ## Usage
